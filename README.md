@@ -1,4 +1,4 @@
-# Bitcamp React.js
+# Bitcamp React.js Test
 
 React is a fun and interactive front end web framework that is quickly taking over the world! We want to create a 4-week bootcamp about React for students who have some knowledge of JavaScript and are ready to pick up a new technology. We will be focusing on the functional components and React Hooks as opposed to React class components.
 
